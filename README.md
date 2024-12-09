@@ -26,3 +26,8 @@ const Madhusha = {
     },
     lifePhilosophy: "Innovation drives the future 🚀"
 };
+
+<div align="center">
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+</div>
