@@ -1,60 +1,46 @@
 # Madhusha M. Gunasekara
-
-## 🧑‍💻 Programming Languages
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=MBA+%26+IT+Specialist;Full+Stack+Developer;AI+Enthusiast;Cloud+Architect)
+  </div>
+  
+## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Box with Progress Bars for each programming language -->
-  <div style="display: flex; flex-direction: column; align-items: center; width: 80%; padding: 10px; border: 2px solid #3ABFEF; border-radius: 10px;">
-    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
-      <strong>Python</strong>
-      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
-        <div style="width: 90%; background-color: #3776AB; height: 10px;"></div> <!-- 90% proficiency -->
-      </div>
-    </div>
-    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
-      <strong>JavaScript</strong>
-      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
-        <div style="width: 80%; background-color: #F7DF1E; height: 10px;"></div> <!-- 80% proficiency -->
-      </div>
-    </div>
-    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
-      <strong>Java</strong>
-      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
-        <div style="width: 70%; background-color: #007396; height: 10px;"></div> <!-- 70% proficiency -->
-      </div>
-    </div>
-    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
-      <strong>PHP</strong>
-      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
-        <div style="width: 85%; background-color: #777BB4; height: 10px;"></div> <!-- 85% proficiency -->
-      </div>
-    </div>
-    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
-      <strong>C++</strong>
-      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
-        <div style="width: 60%; background-color: #00599C; height: 10px;"></div> <!-- 60% proficiency -->
-      </div>
-    </div>
-    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
-      <strong>TypeScript</strong>
-      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
-        <div style="width: 75%; background-color: #007ACC; height: 10px;"></div> <!-- 75% proficiency -->
-      </div>
-    </div>
-    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
-      <strong>HTML5</strong>
-      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
-        <div style="width: 95%; background-color: #E34F26; height: 10px;"></div> <!-- 95% proficiency -->
-      </div>
-    </div>
-    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
-      <strong>CSS3</strong>
-      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
-        <div style="width: 85%; background-color: #1572B6; height: 10px;"></div> <!-- 85% proficiency -->
-      </div>
-    </div>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
+</div>
+
+## 🚀 Languages and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,django,flask,docker,git,mysql,postgresql,mongodb,aws,azure,linux" />
+</div>
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+
+### 🛠 Technologies & Frameworks
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+
+### 💾 Databases
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure)
 
 
 ## 👨‍💻 About Me
