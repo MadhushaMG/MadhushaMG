@@ -1,34 +1,34 @@
-# Animation Enthusiast 🎥✨
+# <span style="font-size:2em; font-weight:bold; color:#FF4500; animation: glow 1.5s infinite alternate;">Animation Enthusiast 🎥✨</span>
 
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" alt="Welcome Animation">
-
+<div style="text-align: center; font-size: 1.2em; animation: fadeIn 3s;">
 Welcome to my world of animations, where creativity meets technology! Here, you'll find everything about my animation projects, tools, and techniques I use to bring ideas to life.
+</div>
 
 ---
 
 ## 🎨 Animation Tools & Skills
 
 ### **Core Animation Software**
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)  
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
-![Maya](https://img.shields.io/badge/-Autodesk%20Maya-00BFFF?logo=autodesk&logoColor=white)  
-![Cinema 4D](https://img.shields.io/badge/-Cinema%204D-111111?logo=maxon&logoColor=blue)
-
-<img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="400px" align="right" alt="Animation GIF">
+<span style="animation: slideIn 2s;">
+- ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
+- ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
+- ![Maya](https://img.shields.io/badge/-Autodesk%20Maya-00BFFF?logo=autodesk&logoColor=white)
+- ![Cinema 4D](https://img.shields.io/badge/-Cinema%204D-111111?logo=maxon&logoColor=blue)
+</span>
 
 ### **Skills**
+<span style="animation: fadeIn 3s;">
 - **3D Modeling**: Creating realistic 3D environments and objects.
 - **Rigging**: Designing skeletal structures for animation.
 - **Motion Graphics**: Crafting engaging transitions and motion effects.
 - **Visual Effects (VFX)**: Adding dynamic effects using simulations.
+</span>
 
 ---
 
 ## 🌟 Featured Projects
 
 ### **1. Animated Short: *"Beyond the Stars"* 🌌**
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" alt="Beyond the Stars Preview">
-
 🚀 *Description*: A sci-fi short film created using Blender, showcasing a journey through deep space.  
 🎥 *Highlights*:
    - Realistic lighting and reflections
@@ -60,8 +60,6 @@ Welcome to my world of animations, where creativity meets technology! Here, you'
 
 ## 🔧 Workflows & Pipelines
 
-<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="200px" align="left" alt="Workflow Animation">
-
 ### Pre-production 📝
 - **Storyboarding**: Visualizing the script with concept art.
 - **Asset Creation**: Designing characters, objects, and environments.
@@ -78,8 +76,9 @@ Welcome to my world of animations, where creativity meets technology! Here, you'
 
 ## 🤝 Let's Collaborate!
 
+<div style="text-align: center; animation: glow 2s infinite alternate;">
 I’m always open to working on exciting animation projects or exploring new techniques.  
-Feel free to reach out:
+</div>
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=googlechrome&logoColor=white)](https://yourportfolio.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
@@ -88,4 +87,24 @@ Feel free to reach out:
 
 ---
 
-Let’s create something extraordinary together! 🚀
+## 🌈 Let’s create something extraordinary together! 🚀
+
+---
+
+### CSS Animations (for reference, add this in Markdown support):
+
+```css
+<style>
+@keyframes glow {
+  0% { color: #ff4500; text-shadow: 0 0 10px #ff4500; }
+  100% { color: #ff6347; text-shadow: 0 0 20px #ff6347; }
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideIn {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(0); }
+}
+</style>
