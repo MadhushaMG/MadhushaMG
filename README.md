@@ -3,16 +3,59 @@
 ## 🧑‍💻 Programming Languages
 
 <div align="center">
-  <!-- Add your programming languages here -->
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <!-- Box with Progress Bars for each programming language -->
+  <div style="display: flex; flex-direction: column; align-items: center; width: 80%; padding: 10px; border: 2px solid #3ABFEF; border-radius: 10px;">
+    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
+      <strong>Python</strong>
+      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+        <div style="width: 90%; background-color: #3776AB; height: 10px;"></div> <!-- 90% proficiency -->
+      </div>
+    </div>
+    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
+      <strong>JavaScript</strong>
+      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+        <div style="width: 80%; background-color: #F7DF1E; height: 10px;"></div> <!-- 80% proficiency -->
+      </div>
+    </div>
+    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
+      <strong>Java</strong>
+      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+        <div style="width: 70%; background-color: #007396; height: 10px;"></div> <!-- 70% proficiency -->
+      </div>
+    </div>
+    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
+      <strong>PHP</strong>
+      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+        <div style="width: 85%; background-color: #777BB4; height: 10px;"></div> <!-- 85% proficiency -->
+      </div>
+    </div>
+    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
+      <strong>C++</strong>
+      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+        <div style="width: 60%; background-color: #00599C; height: 10px;"></div> <!-- 60% proficiency -->
+      </div>
+    </div>
+    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
+      <strong>TypeScript</strong>
+      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+        <div style="width: 75%; background-color: #007ACC; height: 10px;"></div> <!-- 75% proficiency -->
+      </div>
+    </div>
+    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
+      <strong>HTML5</strong>
+      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+        <div style="width: 95%; background-color: #E34F26; height: 10px;"></div> <!-- 95% proficiency -->
+      </div>
+    </div>
+    <div style="width: 100%; margin-bottom: 10px; text-align: center;">
+      <strong>CSS3</strong>
+      <div style="background-color: #ddd; border-radius: 10px; overflow: hidden;">
+        <div style="width: 85%; background-color: #1572B6; height: 10px;"></div> <!-- 85% proficiency -->
+      </div>
+    </div>
+  </div>
 </div>
+
 
 ## 👨‍💻 About Me
 
