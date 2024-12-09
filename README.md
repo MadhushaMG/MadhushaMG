@@ -1,7 +1,7 @@
 # Madhusha M. Gunasekara
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=MBA+%26+IT+Specialist;Full+Stack+Developer;AI+Enthusiast;Cloud+Architect)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=BSC+%26+SE+Specialist;Full+Stack+Developer;AI+Enthusiast;Syber+Security)
   </div>
   
 
@@ -13,21 +13,20 @@
 </div>
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 
 ### 🛠 Technologies & Frameworks
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
 
 ### 💾 Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)
