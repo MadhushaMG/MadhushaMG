@@ -1,110 +1,91 @@
-# <span style="font-size:2em; font-weight:bold; color:#FF4500; animation: glow 1.5s infinite alternate;">Animation Enthusiast 🎥✨</span>
+# KD Jayakody
 
-<div style="text-align: center; font-size: 1.2em; animation: fadeIn 3s;">
-Welcome to my world of animations, where creativity meets technology! Here, you'll find everything about my animation projects, tools, and techniques I use to bring ideas to life.
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&width=435&lines=MBA+%26+IT+Specialist;Full+Stack+Developer;AI+Enthusiast;Cloud+Architect)
+
+  [![GitHub followers](https://img.shields.io/github/followers/kdjayakody?label=Follow&style=social)](https://github.com/kdjayakody)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/kdjayakody?style=social)](https://twitter.com/kdjayakody)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdjayakody/)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kdj@kdj.lk)
+  
+  <img src="https://komarev.com/ghpvc/?username=kdjayakody&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+## 👨‍💻 About Me
+
+```typescript
+const KDJayakody = {
+    location: "Sri Lanka 🇱🇰",
+    education: "MBA & IT Specialist",
+    roles: ["Full Stack Developer", "Cloud Architect", "AI Enthusiast"],
+    currentFocus: ["Operating Systems", "Cloud Architecture", "Advanced System Design"],
+    communities: {
+        founder: ["KDJ Community"],
+        member: ["AI Sri Lanka", "OpenAI Developers"]
+    },
+    lifePhilosophy: "Learning something new every day 🚀"
+};
+```
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Core Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Web Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Tools & Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kdjayakody&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdjayakody&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=3ABFEF&icon_color=3ABFEF" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdjayakody&theme=tokyonight&hide_border=true&background=1A1B27&stroke=3ABFEF&ring=3ABFEF&fire=FF9900" height="200" />
+</div>
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kdj.lk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdjayakody/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kdjayakody)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kdjayakody/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kdj@kdj.lk)
+
 </div>
 
 ---
 
-## 🎨 Animation Tools & Skills
-
-### **Core Animation Software**
-<span style="animation: slideIn 2s;">
-- ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
-- ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
-- ![Maya](https://img.shields.io/badge/-Autodesk%20Maya-00BFFF?logo=autodesk&logoColor=white)
-- ![Cinema 4D](https://img.shields.io/badge/-Cinema%204D-111111?logo=maxon&logoColor=blue)
-</span>
-
-### **Skills**
-<span style="animation: fadeIn 3s;">
-- **3D Modeling**: Creating realistic 3D environments and objects.
-- **Rigging**: Designing skeletal structures for animation.
-- **Motion Graphics**: Crafting engaging transitions and motion effects.
-- **Visual Effects (VFX)**: Adding dynamic effects using simulations.
-</span>
-
----
-
-## 🌟 Featured Projects
-
-### **1. Animated Short: *"Beyond the Stars"* 🌌**
-🚀 *Description*: A sci-fi short film created using Blender, showcasing a journey through deep space.  
-🎥 *Highlights*:
-   - Realistic lighting and reflections
-   - Procedural planet textures
-   - Dynamic camera angles for storytelling
-
-**[GitHub Repo](https://github.com/YourUsername/BeyondTheStars)** | **[Video Preview](https://yourlink.com)**
-
----
-
-### **2. 2D Animation: *"Rhythm of Life"* 🎶**
-🎼 *Description*: A hand-drawn 2D animation exploring the connection between music and emotions.  
-🎨 *Tools*: Adobe After Effects, Illustrator  
-🎥 *Key Features*:
-   - Frame-by-frame animation
-   - Synchronized transitions with music beats
-   - Custom illustrated assets
-
-**[GitHub Repo](https://github.com/YourUsername/RhythmOfLife)** | **[Watch on YouTube](https://youtube.com/yourlink)**
-
----
-
-## 📈 GitHub Stats for Animation Projects
-
-[![Animation GitHub Stats](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=BeyondTheStars&theme=radical)](https://github.com/YourUsername/BeyondTheStars)  
-[![Animation Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide=other)](https://github.com/YourUsername)
-
----
-
-## 🔧 Workflows & Pipelines
-
-### Pre-production 📝
-- **Storyboarding**: Visualizing the script with concept art.
-- **Asset Creation**: Designing characters, objects, and environments.
-
-### Production 🛠️
-- **Animation**: Keyframing and rigging with Blender or After Effects.
-- **Rendering**: Optimized rendering pipelines using Blender Cycles and Eevee.
-
-### Post-production 🎬
-- **Editing**: Video editing and compositing in Adobe Premiere Pro.
-- **Sound Design**: Synchronizing audio using Audacity.
-
----
-
-## 🤝 Let's Collaborate!
-
-<div style="text-align: center; animation: glow 2s infinite alternate;">
-I’m always open to working on exciting animation projects or exploring new techniques.  
+<div align="center">
+  
+  **💡 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!**
+  
+  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 </div>
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=googlechrome&logoColor=white)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
----
-
-## 🌈 Let’s create something extraordinary together! 🚀
-
----
-
-### CSS Animations (for reference, add this in Markdown support):
-
-```css
-<style>
-@keyframes glow {
-  0% { color: #ff4500; text-shadow: 0 0 10px #ff4500; }
-  100% { color: #ff6347; text-shadow: 0 0 20px #ff6347; }
-}
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-@keyframes slideIn {
-  from { transform: translateX(-100%); }
-  to { transform: translateX(0); }
-}
-</style>
