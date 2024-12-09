@@ -22,11 +22,11 @@ const Madhusha = {
     currentFocus: ["Building Codara Software Solutions", "AI-Powered Attendance Systems", "Resume Builder App"],
     communities: {
         founder: ["Codara Software Solutions"],
-        member: ["AI Sri Lanka", "Open Source Developers"]
+        member: ["AI Sri Lanka", "Open Source DevelopersAZZ
     },
     lifePhilosophy: "Innovation drives the future 🚀"
 };
-
+```
 ## 🤝 Connect & Collaborate
 
 <div align="center">
