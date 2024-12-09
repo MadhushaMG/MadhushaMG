@@ -64,7 +64,7 @@ const Madhusha = {
 
 <div align="center">
   
-  **💡 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!**
+  **💡 Powered by Codara Software Solutions **
   
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 </div>
