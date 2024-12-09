@@ -1,5 +1,7 @@
 # Animation Enthusiast 🎥✨
 
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="100%" alt="Welcome Animation">
+
 Welcome to my world of animations, where creativity meets technology! Here, you'll find everything about my animation projects, tools, and techniques I use to bring ideas to life.
 
 ---
@@ -7,10 +9,12 @@ Welcome to my world of animations, where creativity meets technology! Here, you'
 ## 🎨 Animation Tools & Skills
 
 ### **Core Animation Software**
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)
-![Maya](https://img.shields.io/badge/-Autodesk%20Maya-00BFFF?logo=autodesk&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?logo=adobeaftereffects&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white)  
+![Maya](https://img.shields.io/badge/-Autodesk%20Maya-00BFFF?logo=autodesk&logoColor=white)  
 ![Cinema 4D](https://img.shields.io/badge/-Cinema%204D-111111?logo=maxon&logoColor=blue)
+
+<img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="400px" align="right" alt="Animation GIF">
 
 ### **Skills**
 - **3D Modeling**: Creating realistic 3D environments and objects.
@@ -23,6 +27,8 @@ Welcome to my world of animations, where creativity meets technology! Here, you'
 ## 🌟 Featured Projects
 
 ### **1. Animated Short: *"Beyond the Stars"* 🌌**
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" alt="Beyond the Stars Preview">
+
 🚀 *Description*: A sci-fi short film created using Blender, showcasing a journey through deep space.  
 🎥 *Highlights*:
    - Realistic lighting and reflections
@@ -53,6 +59,8 @@ Welcome to my world of animations, where creativity meets technology! Here, you'
 ---
 
 ## 🔧 Workflows & Pipelines
+
+<img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="200px" align="left" alt="Workflow Animation">
 
 ### Pre-production 📝
 - **Storyboarding**: Visualizing the script with concept art.
