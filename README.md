@@ -38,7 +38,7 @@
 ```typescript
 const Madhusha = {
     location: "Sri Lanka 🇱🇰",
-    education: "BSc(Hons) in Software Engineering  , HND in Psychology, Dip in Child Counselling, Dip in ICT  ",
+    education: "BSc(Hons) in Software Engineering  , HND in Psychology, Dip in Child Counselling, Dip in ICT , Dip in Tamil  ",
     roles: ["Full Stack Developer", "Founder & CEO", "AI Enthusiast"],
     currentFocus: ["Building Codara Software Solutions", "AI-Powered Attendance Systems", "Resume Builder App"],
     communities: {
